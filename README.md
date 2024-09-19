@@ -5,7 +5,6 @@
 </div>
 
 </br>
-</br>
 
 
 # <span>About ME<img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="80"/></span>:
@@ -96,6 +95,7 @@ If you want to chat about code, swap anime recommendations, or just share cat me
  </br>
  </br>
  </br></br>
+ </br>
  </br
  </br>
 <p align="center" > 
