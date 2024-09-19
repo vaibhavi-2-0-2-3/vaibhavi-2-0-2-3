@@ -101,8 +101,5 @@ If you want to chat about code, swap anime recommendations, or just share cat me
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90"/>
 </p>
  </p>
- 
-
-</br>
 
 *************
