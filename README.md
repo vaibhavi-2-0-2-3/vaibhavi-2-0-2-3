@@ -8,7 +8,7 @@
 </br>
 
 
-# About ME <span><img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="70"/> </span>:
+# <span>About ME<img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="80"/></span>:
 
 ### - 21 and coding like Luffy: still learning, but ready for adventure! ☠️💻
 
@@ -98,7 +98,7 @@ If you want to chat about code, swap anime recommendations, or just share cat me
  </br></br>
  </br>
 <p align="center" > 
-  <img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="100"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90"/>
 </p>
  </p>
  
