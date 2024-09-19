@@ -13,7 +13,9 @@
 
 ### - 21 and coding like Luffy: still learning, but ready for adventure! ☠️💻
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif">
+<img hight="80" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif">
+</br>
+</br>
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
