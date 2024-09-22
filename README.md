@@ -21,8 +21,8 @@
 
 ### - Hobbies : 
 - ✨ Watching Anime
-- ✨ Reading Light Novels
 - ✨ Chess (Neighbourhood Professional XD)
+- ✨ Cozy Cat-Time (Relaxing with my feline friend)
 
 </br>
 </br>
