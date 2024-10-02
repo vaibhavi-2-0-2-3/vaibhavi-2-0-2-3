@@ -77,7 +77,7 @@ If you want to chat about code, swap anime recommendations, or just share cat me
 <a href="mailto:v.a.i.bhavi062024@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/vaibhavi-gaonkar-4660522a6/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
