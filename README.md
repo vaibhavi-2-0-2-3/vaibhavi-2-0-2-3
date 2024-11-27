@@ -9,7 +9,7 @@
 
 # <span>About ME<img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="80"/></span>:
 
-### - Coding like Luffy: still learning, but ready for adventure! ☠️💻
+### - A IT Engineering Undergraduate Student at Goa University, India.
 
 <img hight="80" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif">
 </br>
