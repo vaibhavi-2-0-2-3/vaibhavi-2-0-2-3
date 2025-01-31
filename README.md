@@ -27,7 +27,7 @@
 
 # <span>About ME<img src="https://s-media-cache-ak0.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.jpg" height="80"/></span>:
 
-### - A IT Engineering Undergraduate Student at Goa University, India.
+### - A IT Engineering Undergraduate Student at Goa College of Engineering, India.
 
 <img alt="GIF" align="right" src="https://i.sstatic.net/XGlad.gif">
 </br>
