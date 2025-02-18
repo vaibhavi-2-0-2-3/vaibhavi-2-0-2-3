@@ -117,14 +117,11 @@ If you want to chat about code, swap anime recommendations, or just share cat me
 
 <span>
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/d2ffed61-bfc4-46c8-8b33-83f46bbe3b9a">
- <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/cc53f884-cf64-4878-81c8-500231d50104">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/e29336c6-89cc-4bbc-ab2d-4cae3a2a0282">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/66751593-470a-4628-8d08-a8945ac0ffce">
- <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/b396c2f7-1465-45a7-9fbb-5ae5855535c6">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/c10daac6-4974-4be4-bc44-43ef009111dd">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/49667cf4-6265-4685-ac11-4ec57f499d88">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/7ffe2538-385b-4d3a-99bf-dc4d8446c388">
- <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/56c24bfd-ce26-42cf-ad60-8a815a59efde">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/d5e7197e-2ab6-4854-b60d-f32dfe7fdc1e">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/698d3544-f538-4ba8-86ed-b05c843e1af2">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/5b693b30-3370-498a-abfc-6ed7fe7eb96d">
@@ -133,7 +130,6 @@ If you want to chat about code, swap anime recommendations, or just share cat me
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/42206594-1bae-47f1-a13b-f3951ef19926">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/3d67130f-77a5-48f3-a8c2-ebacf8c4039b">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/96881200-ccca-4f70-9ce0-3b449aa64b5c">
- <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/70016e9d-285e-47f7-8684-f1c2b9fe2ba5">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/c2811269-c6f1-444e-834c-2870137f36ae">
  <img height="50" width="60" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/43c69bcb-de32-46cc-b341-d145793ffcc7">
  
