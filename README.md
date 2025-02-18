@@ -131,7 +131,7 @@ If you want to chat about code, swap anime recommendations, or just share cat me
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/946938d0-81bd-4632-a8dc-4a1c0b06281a">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/42206594-1bae-47f1-a13b-f3951ef19926">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/3d67130f-77a5-48f3-a8c2-ebacf8c4039b">
- <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/96881200-ccca-4f70-9ce0-3b449aa64b5c">
+ <img height="50" width="60" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/96881200-ccca-4f70-9ce0-3b449aa64b5c">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/c2811269-c6f1-444e-834c-2870137f36ae">
  <img height="50" width="50" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/43c69bcb-de32-46cc-b341-d145793ffcc7">
  <img height="50" width="60" align="right" alt="Party Parrot" src="https://github.com/user-attachments/assets/d5e7197e-2ab6-4854-b60d-f32dfe7fdc1e">
