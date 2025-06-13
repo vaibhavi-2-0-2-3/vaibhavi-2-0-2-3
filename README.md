@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh3ZGFweTR5ZG9oM3o0cGZnbnF6amZydTFlbzU3d3R1bm0xc2x1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PvRvK1oAh64KUMxzIN/giphy.gif" width="100%" alt="cat-coding-banner" />
+  <img src="https://github.com/user-attachments/assets/c2a31052-b6cb-4036-8a64-80ad7b2cb2fc" alt="Vaibhavi Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavi-2-0-2-3&theme=radical&hide_border=true" width="48%" />
 </p>
 
-### 🧠 Top Languages (based on code, not my coffee intake ☕)
+### 🧠 Top Languages
 
 > *Note: This doesn’t reflect my skill level or something like that, it's just GitHub counting which languages I’ve typed the most 🤓*.
 
