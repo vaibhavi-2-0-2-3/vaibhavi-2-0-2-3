@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/891b881f-b831-4992-8b54-f980b3b13968" alt="Vaibhavi Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/891b881f-b831-4992-8b54-f980b3b13968" alt="Vaibhavi Banner" width="100%" height="280px" />
 </p>
 
 <h1 align="center">
