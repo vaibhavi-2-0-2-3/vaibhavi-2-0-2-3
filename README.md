@@ -7,7 +7,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=700&lines=I'm%20a%20self-taught%20and%20formally%20trained%20developer%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3;Node.js%20is%20cool...%20I%20guess%3F%20Still%20exploring%20%F0%9F%9A%80;Open%20to%20cool%20projects!" alt="Typing animation" />
 </h1>
----
 
 ### 📊 GitHub Stats
 
