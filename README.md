@@ -1,13 +1,12 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/891b881f-b831-4992-8b54-f980b3b13968" alt="Vaibhavi Banner" width="100%" height="280px" />
+  <img src="https://github.com/user-attachments/assets/891b881f-b831-4992-8b54-f980b3b13968" alt="Vaibhavi Banner" width="100%" height="300px" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=600&lines=%3E+I'm+a+self-taught+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=700&lines=I'm%20a%20self-taught%20and%20formally%20trained%20developer%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3;Node.js%20is%20cool...%20I%20guess%3F%20Still%20exploring%20%F0%9F%9A%80;Open%20to%20cool%20projects!" alt="Typing animation" />
 </h1>
-
 ---
 
 ### 📊 GitHub Stats
