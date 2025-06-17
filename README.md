@@ -8,6 +8,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=700&lines=I'm%20a%20self-taught%20and%20formally%20trained%20developer%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3;Node.js%20is%20cool...%20I%20guess%3F%20Still%20exploring%20%F0%9F%9A%80;Open%20to%20cool%20projects!" alt="Typing animation" />
 </h1>
 
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <img width="90" height="40" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  </br>
+  <img width="90" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img width="90" height="40" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  </br>
+  <img width="90" height="40" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img width="90" height="40" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img width="90" height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -24,6 +46,7 @@
 </p>
 
 ---
+
 
 ### 📫 Let’s Connect!
 
@@ -53,13 +76,6 @@
 
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-
----
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=+Thanks+for+visiting!+" alt="Typing SVG" />
