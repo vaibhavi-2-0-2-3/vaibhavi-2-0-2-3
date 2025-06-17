@@ -76,6 +76,7 @@
 
 </div>
 
+
 </br>
 </br>
 </br>
@@ -84,7 +85,5 @@
 
 ---
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=+Thanks+for+visiting!+" alt="Typing SVG" />
-</h1>
